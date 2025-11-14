@@ -1,7 +1,7 @@
 # QA-Urban-Grocers-Kits-Entregas-
-Validación de actualizaciones en API para kits (límite 30 productos únicos) y “Order and Go”, garantizando reglas de negocio y cero tolerancia a errores.
+Validación de actualizaciones en API para manejo de kits y servicios de entrega 
 
-•	Objetivo: Validación de actualizaciones en API RESTful para kits (límite 30 productos únicos) y “Order and Go”, garantizando reglas de negocio.
+•	Objetivo: Validación de actualizaciones en API para kits (límite 30 productos únicos) y “Order and Go”, garantizando reglas de negocio.
 
 •	Herramientas: apiDoc, Postman, Google Sheets, Jira, pruebas de API, clases de equivalencia y reporting de defectos.
 
